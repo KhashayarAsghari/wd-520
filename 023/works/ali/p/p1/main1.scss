@@ -1,0 +1,40 @@
+/*https://demo.yootheme.com/wordpress/themes/jack-baker/ */
+*{
+     margin: 0;
+     background-color: #181818;
+}
+.header{
+   height: 100px;
+   display: flex;
+   background-color: red;
+   width: 100%;
+   
+}
+.header__1{
+    justify-content: flex-start;
+    width: 10%;
+    color: white;
+}
+.header__2{
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+    width: 80%;
+}
+.header__3{
+    justify-content: flex-end;
+    width: 10%;
+}
+.slider{
+    height: 700px;
+
+  
+
+}
+.slider__p{
+   
+    color: white;
+    
+}
